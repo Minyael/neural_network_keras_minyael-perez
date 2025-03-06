@@ -8,7 +8,7 @@ Este proyecto implementa una red neuronal utilizando **TensorFlow** y **Keras** 
 
 ---
 
-## 🛠️ Requisitos Previos
+## Requisitos Previos
 
 Antes de ejecutar el código, asegúrate de tener instaladas las siguientes bibliotecas:
 
@@ -121,18 +121,6 @@ Para entrenar y evaluar el modelo, ejecuta en la terminal:
 ```bash
 python main.py
 ```
-
----
-
-## Resultados Esperados
-
-Después de ejecutar el código, deberías obtener una precisión en el conjunto de prueba similar a:
-
-```
-Precisión en el conjunto de prueba: 0.97
-```
-
-Esto indica que la red neuronal ha logrado clasificar correctamente el 97% de los dígitos de prueba.
 
 ---
 
