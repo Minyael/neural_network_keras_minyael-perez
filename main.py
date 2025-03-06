@@ -1,4 +1,4 @@
-from src.neural_network_keras import train_mnist_model
+from src.neural_network_keras import train_neural_network
 
 if __name__ == "__main__":
-    train_mnist_model()
+    train_neural_network()
